@@ -35,6 +35,7 @@ import seaborn as sns
 # Plot Movies vs TV Shows
 sns.countplot(x='type', data=df)
 plt.title("Movies vs TV Shows on Netflix")
+plt.savefig("movies_vs_tvshows.png")
 plt.show()
 
 # ------------------ TOP GENRES ------------------
@@ -52,6 +53,7 @@ plt.ylabel("Count")
 
 plt.xticks(rotation=45)
 plt.tight_layout()
+plt.savefig("top_genres.png")
 plt.show()
 
 # ------------------ YEAR-WISE TREND ------------------
@@ -68,4 +70,5 @@ plt.xlabel("Year")
 plt.ylabel("Number of Shows")
 
 plt.tight_layout()
+plt.savefig("year_trend.png")
 plt.show()
