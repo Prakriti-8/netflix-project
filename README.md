@@ -97,15 +97,6 @@ python netflix_analysis.py
 
 ---
 
-## 📌 Project Structure
-
-netflix-project/
-│── netflix_analysis.py
-│── netflix_titles.csv
-│── README.md
-
----
-
 ## 👩‍💻 Author
 
 Prakriti Prakash
