@@ -97,6 +97,19 @@ python netflix_analysis.py
 
 ---
 
+## 📊 Output Visualizations
+
+### Movies vs TV Shows
+![Movies vs TV Shows](movies_vs_tvshows.png)
+
+### Top Genres
+![Top Genres](top_genres.png)
+
+### Year-wise Trend
+![Year Trend](year_trend.png)
+
+---
+
 ## 👩‍💻 Author
 
 Prakriti Prakash
